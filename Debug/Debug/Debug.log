@@ -1,0 +1,7 @@
+﻿  Debug.cpp
+d:\c++ projects\debug\debug\functions.h(44): warning C4018: “<”: 有符号/无符号不匹配
+d:\c++ projects\debug\debug\debug.cpp(75): warning C4018: “<”: 有符号/无符号不匹配
+d:\c++ projects\debug\debug\debug.cpp(79): warning C4018: “<”: 有符号/无符号不匹配
+d:\c++ projects\debug\debug\debug.cpp(139): warning C4018: “<”: 有符号/无符号不匹配
+  Debug.vcxproj -> D:\c++ projects\Debug\Debug\Debug.exe
+  Debug.vcxproj -> D:\c++ projects\Debug\Debug\Debug.pdb (Full PDB)
